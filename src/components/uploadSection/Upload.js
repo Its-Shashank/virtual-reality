@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import './upload.css'
 import ThreeD from '../d3/ThreeD'
 import { CloudUpload } from '@material-ui/icons'
